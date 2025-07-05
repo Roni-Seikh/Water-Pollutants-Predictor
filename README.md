@@ -22,6 +22,10 @@ A machine learning web application built to **predict multiple water quality par
 
 | Station Map |
 |-------------|
+| ![Map](screenshots/newplot.png) |
+
+| Station Map |
+|-------------|
 | ![Map](screenshots/Station%20Map.png) |
 
 ---
