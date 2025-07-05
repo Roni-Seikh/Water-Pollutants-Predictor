@@ -12,7 +12,19 @@ A machine learning web application built to **predict multiple water quality par
 
 ## 📸 Project Screenshots
 
+<<<<<<< HEAD
 | Home Page With Input |
+=======
+| Home Page With Input | Sidebar | Prediction |
+|----------------------|---------|------------|
+| ![Home](screenshots/Home%20Page%20With%20Input%20Parameters.png) | ![Sidebar](screenshots/Sidebar.png) | ![Prediction](screenshots/Prediction.png) |
+
+| Predicted vs Real-Time | Comparison with Real Data | Download Results |
+|------------------------|---------------------------|------------------|
+| ![Compare](screenshots/Predicted%20vs%20Real%20Time%20Pollutants.png) | ![Real](screenshots/Comparison%20With%20Real%20Data.png) | ![Download](screenshots/Download%20Results%20As%20CSV.png) |
+
+| NewPlot |
+>>>>>>> aeebde3186275d4cc4d1745bca43766d0edfefac
 |-------------|
 | ![Home](screenshots/Home%20Page%20With%20Input%20Parameters.png) |
 
